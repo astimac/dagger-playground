@@ -23,7 +23,5 @@ class MainActivity : BaseActivity() {
             }
             true
         }
-
-        bottom_navigation.selectedItemId = R.id.action_fragment1
     }
 }
